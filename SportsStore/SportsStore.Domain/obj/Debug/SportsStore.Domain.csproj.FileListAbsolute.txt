@@ -1,0 +1,14 @@
+c:\Users\profi\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\Users\profi\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\Users\profi\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+c:\Users\profi\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\Users\profi\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\andrei.profir\Documents\Visual Studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
